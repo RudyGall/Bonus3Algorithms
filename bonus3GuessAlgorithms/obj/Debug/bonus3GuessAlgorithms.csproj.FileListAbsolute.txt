@@ -1,0 +1,7 @@
+C:\Users\rudye\source\repos\bonus3GuessAlgorithms\bonus3GuessAlgorithms\obj\Debug\bonus3GuessAlgorithms.csprojAssemblyReference.cache
+C:\Users\rudye\source\repos\bonus3GuessAlgorithms\bonus3GuessAlgorithms\obj\Debug\bonus3GuessAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\rudye\source\repos\bonus3GuessAlgorithms\bonus3GuessAlgorithms\bin\Debug\bonus3GuessAlgorithms.exe.config
+C:\Users\rudye\source\repos\bonus3GuessAlgorithms\bonus3GuessAlgorithms\bin\Debug\bonus3GuessAlgorithms.exe
+C:\Users\rudye\source\repos\bonus3GuessAlgorithms\bonus3GuessAlgorithms\bin\Debug\bonus3GuessAlgorithms.pdb
+C:\Users\rudye\source\repos\bonus3GuessAlgorithms\bonus3GuessAlgorithms\obj\Debug\bonus3GuessAlgorithms.exe
+C:\Users\rudye\source\repos\bonus3GuessAlgorithms\bonus3GuessAlgorithms\obj\Debug\bonus3GuessAlgorithms.pdb

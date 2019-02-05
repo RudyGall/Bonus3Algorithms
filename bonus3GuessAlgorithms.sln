@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bonus3GuessAlgorithms", "bonus3GuessAlgorithms\bonus3GuessAlgorithms.csproj", "{0147D8A2-DB4A-4EB6-B6B4-105012300956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0147D8A2-DB4A-4EB6-B6B4-105012300956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0147D8A2-DB4A-4EB6-B6B4-105012300956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0147D8A2-DB4A-4EB6-B6B4-105012300956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0147D8A2-DB4A-4EB6-B6B4-105012300956}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BBB39D4-9156-49EC-9ECD-E4D2AEAB7562}
+	EndGlobalSection
+EndGlobal
